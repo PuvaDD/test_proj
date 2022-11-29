@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 function Home() {
 
-  const a = 1
+  const a = 2
   return (
       <div>
             aaaa
