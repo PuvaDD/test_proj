@@ -6,8 +6,8 @@ function Home() {
   return (
       <div>
             a1
-          sala2m
-          khoda3fez
+          bahare
+          khodafezbahare
       </div>
     );
 }
