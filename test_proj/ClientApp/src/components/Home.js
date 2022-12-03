@@ -7,6 +7,7 @@ function Home() {
       <div>
             aaaa
           salam
+          khodafez
       </div>
     );
 }
