@@ -5,9 +5,9 @@ function Home() {
   const a = 2
   return (
       <div>
-            aaaa
-          salam
-          khodafez
+            a1
+          sala2m
+          khoda3fez
       </div>
     );
 }
