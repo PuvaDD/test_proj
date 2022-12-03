@@ -9,7 +9,7 @@ function Home() {
           bahare
           khoda3fezaaaa34567aaa
           bahareeeeeee
-          bidibidibooooooo
+          bidibidibooooooo[[[[[[
       </div>
     );
 }
