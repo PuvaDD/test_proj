@@ -5,8 +5,8 @@ function Home() {
   const a = 2
   return (
       <div>
-            a1aaaa
-          sala2msdadasdsad
+            a1
+          bahare
           khoda3fezaaaaaaa
       </div>
     );
