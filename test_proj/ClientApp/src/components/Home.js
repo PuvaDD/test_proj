@@ -8,7 +8,7 @@ function Home() {
             a1
           bahare333+3+3
           by
-          bahareeeeeee
+          123456
       </div>
     );
 }
