@@ -7,7 +7,7 @@ function Home() {
       <div>
             a1
           bahare
-          khoda3fezaaaa34567aaa
+          by
           bahareeeeeee
       </div>
     );
