@@ -8,6 +8,7 @@ function Home() {
             a1
           bahare
           khoda3fezaaaa34567aaa
+          bahareeeeeee
       </div>
     );
 }
