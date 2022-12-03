@@ -8,8 +8,7 @@ function Home() {
             a1
           baharessssssssssssssssssssssssssssssss
           by
-          bahareeeeeee
-          bidibidibooooooo[[[[[[
+          123456
       </div>
     );
 }
